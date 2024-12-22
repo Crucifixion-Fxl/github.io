@@ -27,14 +27,14 @@ refLinksErrorLevel = 'WARNING'
   keywords = ['hugo', 'ed', 'hugo theme', 'minimal', 'responsive', 'clean']
 
   # Used in site header
-  tagline = 'a Hugo theme for minimal editions'
+  tagline = 'Time is but the stream I go a-fishing in'
 
   # Custom footer text on left sidebar. Use HTMl if needed.
   # "&copy;" and "{year}" will be replaced by © and the current year.
   footer = 'Built with <a href="https://github.com/sergeyklay/gohugo-theme-ed" target="_blank" rel="noopener noreferrer">Ed</a>. Distributed under an MIT license.'
 
   # Colour scheme. Options: red, orange, magenta, cyan, blue, brown
-  colorScheme = ''
+  colorScheme = 'brown'
 
   # Sections to be displayed in:
   # - main page
